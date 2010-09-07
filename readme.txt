@@ -1,7 +1,7 @@
 === Plugin Name ===
 Weekly Food Section Widget 
 Contributors: kbarnhart,blakeman 
-Tags: Food 
+Tags: Free content, free articles, recipe plug-in, recipe widget, family features, syndication, food, widget, recipes, cooking, content 
 Requires at least: 2.1
 Tested up to: 3.0.1
 Stable tag:trunk
@@ -10,7 +10,7 @@ Weekly Food Section Widget
 
 == Description ==
 
-Weekly Food Section Widget 
+Add an automatically updating food section to your sidebar. Each week, we add new articles featuring the latest food ideas, trends and kitchen-tested recipes. 
 
 == Installation ==
 
