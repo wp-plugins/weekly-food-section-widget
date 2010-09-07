@@ -34,8 +34,6 @@ Under available widget click add by Weekly Food Section Widget
 
 N/A
 
-Answer to foo bar dilemma.
-
 == Screenshots ==
 
 N/A
