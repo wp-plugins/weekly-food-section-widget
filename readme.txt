@@ -2,11 +2,11 @@
 Weekly Food Section Widget 
 Contributors: kbarnhart,blakeman 
 Tags: Free content, free articles, recipe plug-in, recipe widget, family features, syndication, food, widget, recipes, cooking, content 
-Requires at least: 2.1
+Requires at least: 3.0.1
 Tested up to: 3.0.1
 Stable tag:trunk
 
-Weekly Food Section Widget 
+Add an automatically updating food section to your sidebar. Each week, we add new articles featuring the latest food ideas, trends and kitchen-tested recipes. 
 
 == Description ==
 
@@ -18,7 +18,7 @@ Add an automatically updating food section to your sidebar. Each week, we add ne
 In Admin go to plugins - Add New
 Browse to zip file, select install new. 
 
-1a) Install Manually
+1b) Install Manually
 Extract zip file to \wp-content\plugins\widgets under wordpress directory
 
 2) Active Plugin
