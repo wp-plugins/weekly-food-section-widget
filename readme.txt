@@ -6,7 +6,7 @@ Requires at least: 3.0.1
 Tested up to: 3.0.1
 Stable tag:trunk
 
-Add an automatically updating food section to your sidebar. Each week, we add new articles featuring the latest food ideas, trends and kitchen-tested recipes. 
+Add a food section to your sidebar. Each week, we add new articles featuring the latest food ideas, trends and kitchen-tested recipes.
 
 == Description ==
 
