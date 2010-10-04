@@ -45,9 +45,7 @@ N/A
 
 == Screenshots ==
 
-1. Below is a example of what the Weekly Food Section widget will look like. The content changes out weekly and covers baking, holiday entertaining, grilling, healthy eating and other seasonal cooking topics. To see a live version of the feed, go to http://www.familyfeatures.com/feeds/food. 
-
-If you have any questions visit our Web site at http://editors.familyfeatures.com or contact us at 888-824-3337 or support@familyfeatures.com
+1. Above is a example of what the Weekly Food Section widget will look like. The content changes out weekly and covers baking, holiday entertaining, grilling, healthy eating and other seasonal cooking topics. To see a live version of the feed, go to http://www.familyfeatures.com/feeds/food. <br/><br/>If you have any questions visit our Web site at http://editors.familyfeatures.com or contact us at 888-824-3337 or support@familyfeatures.com
 
 == Changelog ==
 
